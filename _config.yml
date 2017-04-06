@@ -1,18 +1,18 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno/'
+title: Thai Truong
+description: "\"If you can't explain it simply, you don't understand it well enough\" - Albert Einstein"
+url: 'http://ttruong21.github.io'
+baseurl: '/'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Thai Truong'
+  email: tht2401@gmail.com
+  twitter_username: tht2401
+  facebook_username: thtruong
+  github_username:  ttruong21
+  linkedin_username:  ttruong21
 
 defaults:
   -
